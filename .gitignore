@@ -1,10 +1,11 @@
 # Dependency directory
 node_modules
 
+# Compile directory
+app
+
 # Build directory
-sharing-doc-darwin-x64
-sharing-doc-win32-ia32
-sharing-doc-win32-x64
+build
 
 # Web storm directory
 .idea
